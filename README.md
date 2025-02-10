@@ -33,8 +33,8 @@ Esta é minha solução para o desafio [QR code component challenge](https://www
 
 ### Links
 
-- Projeto URL: [Repositório GitHub](https://)
-- Live Site: [Deploy do Projeto](https://)
+- Projeto URL: [Repositório GitHub](https://https://github.com/CaioLopes5556/MySolution-QR-CODE-COMPONENT-MAIN)
+- Live Site: [Deploy do Projeto](https://https://caiolopes5556.github.io/MySolution-QR-CODE-COMPONENT-MAIN/)
 
 ## Sobre o projeto
 
